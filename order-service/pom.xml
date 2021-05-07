@@ -53,6 +53,12 @@
             <artifactId>spring-cloud-starter-vault-config</artifactId>
             <version>3.0.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-bus-amqp -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-bus-amqp</artifactId>
+            <version>3.0.2</version>
+        </dependency>
 
 
         <dependency>

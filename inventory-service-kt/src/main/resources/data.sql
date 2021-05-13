@@ -1,0 +1,2 @@
+INSERT INTO `shopping_inventory_service`.`inventory` (`id`, `sku_code`, `stock`) VALUES ('1', 'iPhone 12 Purple', '100');
+INSERT INTO `shopping_inventory_service`.`inventory` (`id`, `sku_code`, `stock`) VALUES ('2', 'iPhone 12 PINK', '50');
